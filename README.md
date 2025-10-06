@@ -1,17 +1,14 @@
-<h1>Code Generator</h1>
 <table>
   <tr>
-    <td>Upload a project file and automatically generate corresponding C code using AI.</td>
-    <td></td>
+    <td><h1>Code Generator</h1><br>Upload a project file and automatically generate corresponding C code using AI.</td>
+    <td>
+      <img src = "code-generator.png" />
+    </td>
   </tr>
-</table>
-
-<h1>Code Review</h1>
-<table>
   <tr>
-    <td>Provide the root directory of a project, and the tool will detect duplicate or similar functions in the codebase. </td>
-    <td></td>
+    <td><h1>Code Review</h1><br>Provide the root directory of a project, and the tool will detect duplicate or similar functions in the codebase. </td>
+    <td>
+      <img src = "code-review.png" />
+    </td>
   </tr>
 </table>
-
-<h3>Both functionalities are implemented with the help of Ollama Mistral</h3>
